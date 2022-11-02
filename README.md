@@ -2,6 +2,8 @@
 
 [문의는 이쪽으로 주세요! (카카오톡 오픈프로필)](https://open.kakao.com/o/sEEy7fze)
 
+[봇 설명서 보러가기](https://leesh2347.github.io/kakaotalk_bot_manual/index.html)
+
 ※ 채팅방에 봇 추가는 봇 주인이 직접 넣어줘야 합니다. 위의 링크로 문의 주세요. 단, 봇 추가 관련 문의 폭주로 봇이 느려질 시 새로운 방 추가는 중단될 수 있습니다.
 
 
