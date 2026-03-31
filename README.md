@@ -2,7 +2,7 @@
 
 [문의는 이쪽으로 주세요! (카카오톡 오픈프로필)](https://open.kakao.com/o/sEEy7fze)
 
-[봇 설명서 보러가기](https://leesh2347.github.io/kakaotalk_bot_manual/index.html)
+[봇 설명서 보러가기](https://leesh2347.github.io/kakaotalk_bot_manual/)
 
 ※ 설명서에서는 봇의 각 기능별 실제 작동 모습을 볼 수 있습니다.
 
